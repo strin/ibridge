@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Card::throwOut():Card.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = " 0-this-&gt;getRotation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Card::enable(bool):Card.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "BidGadget::BidGadget(cocos2d::CCPoint, int, BidGadget::GadgetType):BidGadget.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "textGadget-&gt;getPosition()">
+            </PersistentString>
+            <PersistentString
+               value = "this-&gt;getContentSize()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WinScene::init():WinScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "bidGadget-&gt;getPositionX()">
+            </PersistentString>
+            <PersistentString
+               value = "declarerLabel-&gt;getContentSize()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Utils::animateRotationAroundPoint(cocos2d::CCSprite*, cocos2d::CCPoint, float, float):Utils.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "time/(double)meshSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BridgeGame::Check(int, CardType, bool):BridgeGame.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "BidScene::waitforAI():BidScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "bidPlayerQueue-&gt;size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Pack::enable(bool):Pack.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cards-&gt;size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Utils::rotateAroundPoint(cocos2d::CCSprite*, cocos2d::CCPoint, float):Utils.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sprite-&gt;getRotation();">
+            </PersistentString>
+            <PersistentString
+               value = "sprite-&gt;getPosition().x">
+            </PersistentString>
+            <PersistentString
+               value = "sprite-&gt;getRotation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Game::postPlay(int, std::string):Game.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Table::reward(Table::Location):Table.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Trick::moveToTarget(cocos2d::CCPoint, float):Trick.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;getPosition()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cocos2d::CCPoint::CCPoint(cocos2d::CCPoint const&amp;):CCGeometry.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "BidSlot::addBid(int, BidGadget::GadgetType):BidSlot.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;tail-&gt;x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cocos2d::CCRect::containsPoint(cocos2d::CCPoint const&amp;) const:CCGeometry.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "getMaxY()">
+            </PersistentString>
+            <PersistentString
+               value = "getMinX()">
+            </PersistentString>
+            <PersistentString
+               value = "getMaxX()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cocos2d::CCNode::addChild(cocos2d::CCNode*, int, int):CCNode.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "cocos2d::ccArrayAppendObject(cocos2d::_ccArray*, cocos2d::CCObject*):ccCArray.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Card::autoThrowOut():Card.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;getRotation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BidArray::testContract(void*):BidArray.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "((BridgeGame*)Game::game)-&gt;CurrentContract.contract">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Game::gameOn(void*):Game.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Card::setHandsOn(int):Card.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(double)this-&gt;getContentSize().width*this-&gt;getScale()/(double)this-&gt;shadow-&gt;getContentSize().width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Card::containsTouchPoint(cocos2d::CCPoint):Card.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Pack::refreshAtCardRemoval(Card*):Pack.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "8*(count-6)">
+            </PersistentString>
+            <PersistentString
+               value = "(float)allCount/2.0">
+            </PersistentString>
+            <PersistentString
+               value = "card-&gt;getRotation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "init_bidding_system():central_bidding_ai.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "symbol.c_str()">
+            </PersistentString>
+            <PersistentString
+               value = "tmp.step">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Pack::Pack(int, std::list&lt;int, std::allocator&lt;int&gt; &gt;&amp;, std::list&lt;CardType, std::allocator&lt;CardType&gt; &gt;&amp;, bool, Pack::PackOrientation):Pack.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "card-&gt;getRotation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BridgeGame::Declare():Declare.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "PreparedCard">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BridgeGame::PlayingRandom(int):BridgeGame.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Pack::ccTouchesMoved(cocos2d::CCSet*, cocos2d::CCEvent*):Pack.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;cards">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Card::refreshSprite():Card.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "TableScene::scene(TableScene*):TableScene.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Pack::throwOut(std::string):Pack.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "card-&gt;toString()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
